@@ -1,1 +1,3 @@
-https://www.youtube.com/watch?v=jP2DNQyOE90
+# Galery online
+
+application for uploading images using Node.js MongoDB and Cloudinary
